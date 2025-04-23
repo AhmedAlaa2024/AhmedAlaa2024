@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Alaa</h1>
-<h3 align="center">A passionate senior Computer Engineering student 💻</h3>
+<h3 align="center">A passionate Computer Engineering postgraduate student 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalshawafi&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalshawafi" /> </p>
 
-- 🔭 I’m currently working as Software Trainee in Siemens DISW
-
-- 🌱 I’m currently learning **React and NodeJs**
+- 🔭 I’m currently working as Software Engineer in Siemens DISW - HAV Wired Networks Solutions
 
 - 💬 Ask me about **Software Engineering**
 
